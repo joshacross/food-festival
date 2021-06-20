@@ -41,7 +41,6 @@ $(document).ready(function() {
           description: `Today's all about bacon! We'll be serving up the best tasting bacon around town! Let's all get excited about bacon together!
           As an appetizer, grab a side of our delicious BBQ pulled pork and pick up a delicious side of our homemade slaw and sauce! There will be bacon everywhere!!`,
           image: "https://images.unsplash.com/photo-1528607929212-2636ec44253e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1567&q=80",
-      
       },
       {
           title: 'Fry-day',
